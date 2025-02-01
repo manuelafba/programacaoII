@@ -1,0 +1,7 @@
+package pokemon;
+
+public enum TipoPokemon {
+    NORMAL, FOGO, AGUA, GRAMA, VOADOR, LUTADOR, 
+    VENENO, ELETRICO, TERRA, PEDRA, PSIQUICO, 
+    GELO, INSETO, FANTASMA, FERRO, DRAGAO, SOMBRIO, FADA;
+}
